@@ -1,0 +1,33 @@
+/* Colors */
+
+.bg-primary {
+    background-color: #1f1f1f !important;
+}
+
+.bg-secondary {
+    background-color: #fff000 !important;
+}
+
+.btn-primary {
+    background-color: #ff5000 !important;
+    border-color: #ff5000 !important;
+}
+
+.text-black {
+    color: #000000;
+}
+
+/* Overrides */
+
+
+.bg-login-image {
+    background: url("https://images.pexels.com/photos/100582/pexels-photo-100582.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-register-image {
+    background: url("https://cdn.britannica.com/s:700x500/63/82563-050-3FCFC72A/Family-country-road.jpg");
+    background-position: center;
+    background-size: cover;
+}
